@@ -150,7 +150,7 @@ Item
 	// horizontal line to make it look like a flippy thing
 	Rectangle
 	{
-		color: "#ff0000"
+		color: "#9b0000"
 		height: 2
 		anchors.verticalCenter: parent.verticalCenter
 		anchors.left: parent.left
